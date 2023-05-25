@@ -1,0 +1,43 @@
+¿QUÉ ES y POR QUÉ EL OLIVO?
+
+El árbol del olivo pertenece a la familia botánica de las Oleaceae y es la única especie con fruto comestible de esta familia. Además, tiene diferentes usos principalmente relacionados con el aceita de olivo y el consumo de su fruta, la aceituna. 
+Elegimos al olivo, específicamente el arbequina, debido a su resistencia a las sequías. 
+
+--------------------------------
+RESISTENCIA A LAS SEQUÍAS y TEMPERATURAS EXTREMAS
+
+Potencial hídrico (Ψ): Medida de la energía libre que poseen las moléculas de agua para realizar trabajo. Explica la circulación del agua y permite saber el estatus hídrico de las plantas.
+Las plantas a medida que el suelo se seca disminuyen su potencial hídrico para mantener el flujo de agua que compense las pérdidas por transpiración. Generalmente valores superiores a -5 Mpa causa deshidratación total y marchitamiento irreversible, sin embargo, el olivo en condiciones de sequía extrema reduce su potencial hídrico a valores alrededor de -8 Mpa. Esto ha dotado al olivo de una capacidad de resistencia a la sequía (Chaves, 2006).
+Por otro lado, la planta de olivo tolera temperaturas entre -7°C a 40°C, sin embargo la temperatura óptima para el crecimiento y desarrollo de la fruta es de entre 15°C a 25°C (Ozturk, 2021).
+
+----------------------------------
+DEMANDA HÍDRICA
+
+Santa María del Mar tiene una latitud de -12.4025 y una longitud de -76.7742.
+La evapotranspiración potencial (ETP) en el año 2013:
+Enero: 65 mm/mes
+Febrero: 50 mm/mes
+Marzo: 50 mm/mes
+Abril: 45 mm/mes
+Mayo: 30 mm/mes
+Junio: 30 mm/mes
+Julio: 25 mm/mes
+Agosto: 30 mm/mes
+Setiembre: 30 mm/mes
+Octubre: 35 mm/mes
+Noviembre: 45 mm/mes
+Diciembre: 55 mm/mes
+Para calcular la demanda hídrica/mes, multiplicamos Kc med por ETP:
+Enero: 45.5 mm/mes
+Febrero: 35 mm/mes
+Marzo: 35 mm/mes
+Abril: 31.5 mm/mes
+Mayo: 21 mm/mes
+Junio: 21 mm/mes
+Julio: 17.5 mm/mes
+Agosto: 21 mm/mes
+Setiembre: 21 mm/mes
+Octubre: 24.5 mm/mes
+Noviembre: 31.5 mm/mes
+Diciembre: 38.5 mm/mes
+En conclusión, habrá una mayor demanda hídrica en los meses de mayor temperatura.
