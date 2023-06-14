@@ -1,0 +1,13 @@
+RETOS: 
+
+- No obtuvimos idealmente los componentes que planteamos en un principio, por lo que debimos ajustar los que conseguimos para que el funcionamiento del prototipo sea el planeado. Por ejemplo, la manguera se ajustó con cinta teflón para que estuviera unida a la electroválvula y se usará una batería que nos proporcionó el profesor.
+
+- Programar en IOT Cloud .
+
+LIMITACIONES:
+
+- Debido de que el voltaje del Arduino nano IOT  es de 3.3, este no se puede conectar directamente con la electroválvula.
+
+- No contar con un simulador que contenga todos nuestros componentes y no poder realizar las pruebas respectivas.
+
+- Encontrar componentes que funcionaran con el prototipo propuesto.
